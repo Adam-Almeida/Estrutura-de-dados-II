@@ -1,3 +1,5 @@
+![](https://github.com/Adam-Almeida/estrutura-de-dados-II/blob/master/ADAMPERSONALGIT.png)
+
 
 # C - Shellsort | Csv | Struct
 > App de exibição de conteúdo do arquivo .csv ordenado.
@@ -5,10 +7,10 @@
 Utilize o código apenas como estudo e base para o seu aprendizado.
 
 > Saída em oredenação alfabética em III Colunas.
-![](header.png)
+![]()
 
 > Saída em oredenação alfabética em V Colunas.
-![](header.png)
+
 
 ## Code -> Shellsort
 
